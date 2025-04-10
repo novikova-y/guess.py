@@ -18,7 +18,7 @@ This is a simple number guessing game written in Python.
 Save the code to a file, for example `guess.py`, and run it in the terminal:
 
 ```
-python guess_the_number.py
+python guess.py
 ```
 
 ## Features
