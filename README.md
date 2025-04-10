@@ -15,10 +15,10 @@ This is a simple number guessing game written in Python.
 
 ## How to run
 
-Save the code to a file, for example `guess.py`, and run it in the terminal:
+Save the code to a file, for example `guessTheNumber.py`, and run it in the terminal:
 
 ```
-python guess.py
+python guessTheNumber.py
 ```
 
 ## Features
